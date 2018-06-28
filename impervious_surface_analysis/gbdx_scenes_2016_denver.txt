@@ -1,0 +1,4 @@
+# investigated result, these 3 scenes look good for coverage
+id1 = '1030010057062200' # big strip, Date: 07-24-2016, covers 88% of geometries
+id2 = '1030010045AC3E00' # smaller scene, Date: 06-29-2015, covers other 12%
+id3 = '1030010036314500' # smaller scene, covers some of big strip. Date: 10-31-2014, useful for repeatability
